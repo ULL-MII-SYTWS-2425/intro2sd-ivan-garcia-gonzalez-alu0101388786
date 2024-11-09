@@ -2,14 +2,10 @@
 title: "Ejemplo de Uso de Liquid"
 excerpt_separator: "<!--more-->"
 categories:
-  - Liquid Templates
-  - Tutorial
-  - Desarrollo Web
+  - Post Formats
 tags:
+  - Post Formats
   - Liquid
-  - Plantillas
-  - Desarrollo
-
 items:
   - Ordenador
   - Teclado
