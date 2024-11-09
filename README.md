@@ -5,6 +5,9 @@
 ## Sistemas y Tecnologia Web Servidor
 
 ### Despliegue del sitio Web en GitHub pages usando Jekyll
+Se ha realizado el despliegue del Sitio Web en GitHub pages
+![alt text](img/imagePages.png)
+
 ### Resumen de los conceptos del capítulo
 Se realiza un resumen del capitulo 1 del libro en un post:
 ![Resumen](img/imageResumen.png)
