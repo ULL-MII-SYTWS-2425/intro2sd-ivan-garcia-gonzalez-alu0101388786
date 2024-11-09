@@ -16,6 +16,9 @@ Se realiza un resumen del capitulo 1 del libro en un post:
 ![Kandban](img/imageBoard.png)
 
 ### Despliegue en netlify o Vercel
+Se ha realizado el despliegue del Sitio Web en Netlify
+
+
 ### Se ha creado una Jekyll Collection
 Se ha creado una nueva colección sobre la lucha canaria en `_lucha_canaria`, con tres posts sobre la historia, reglas y figuras. Se ha realizado además las configuraciones necesarias en el `_config.yml`.
 ![alt text](img/imageCollection.png)
