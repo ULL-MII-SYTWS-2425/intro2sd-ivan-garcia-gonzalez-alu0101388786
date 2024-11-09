@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Pedro Guerra",
+    "profesion": "Cantautor",
+    "lugar_nacimiento": "Güímar, Tenerife"
+  },
+  {
+    "nombre": "Manolo Vieira",
+    "profesion": "Humorista",
+    "lugar_nacimiento": "Las Palmas de Gran Canaria"
+  },
+  {
+    "nombre": "Ana Guerra",
+    "profesion": "Cantante",
+    "lugar_nacimiento": "San Cristóbal de La Laguna, Tenerife"
+  },
+  {
+    "nombre": "Silvia Navarro",
+    "profesion": "Actriz",
+    "lugar_nacimiento": "Las Palmas de Gran Canaria"
+  },
+  {
+    "nombre": "César Manrique",
+    "profesion": "Artista y arquitecto",
+    "lugar_nacimiento": "Arrecife, Lanzarote"
+  }
+]
