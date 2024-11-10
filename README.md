@@ -6,7 +6,7 @@
 
 ### Despliegue del sitio Web en GitHub pages usando Jekyll
 Se ha realizado el despliegue del Sitio Web en GitHub pages
-![alt text](img/imagePages.png)
+![alt text](img/imagePages.png), se puede consultar aqui: [Mi Página en Pages](https://ull-mii-sytws-2425.github.io/intro2sd-ivan-garcia-gonzalez-alu0101388786/)
 
 ### Resumen de los conceptos del capítulo
 Se realiza un resumen del capitulo 1 del libro en un post:
@@ -16,8 +16,9 @@ Se realiza un resumen del capitulo 1 del libro en un post:
 ![Kandban](img/imageBoard.png)
 
 ### Despliegue en netlify o Vercel
-Se ha realizado el despliegue del Sitio Web en Netlify
+Se ha realizado el despliegue del Sitio Web en Netlify, se puede consultar aqui: [Mi Página en Netlify](https://staticdeployivan.netlify.app/)
 
+![alt text](img/imageNetlify.png)
 
 ### Se ha creado una Jekyll Collection
 Se ha creado una nueva colección sobre la lucha canaria en `_lucha_canaria`, con tres posts sobre la historia, reglas y figuras. Se ha realizado además las configuraciones necesarias en el `_config.yml`.
