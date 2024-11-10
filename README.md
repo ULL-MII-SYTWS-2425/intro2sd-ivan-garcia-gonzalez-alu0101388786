@@ -5,8 +5,9 @@
 ## Sistemas y Tecnologia Web Servidor
 
 ### Despliegue del sitio Web en GitHub pages usando Jekyll
-Se ha realizado el despliegue del Sitio Web en GitHub pages
-![alt text](img/imagePages.png), se puede consultar aqui: [Mi Página en Pages](https://ull-mii-sytws-2425.github.io/intro2sd-ivan-garcia-gonzalez-alu0101388786/)
+Se ha realizado el despliegue del Sitio Web en GitHub pages, se puede consultar aqui: [Mi Página en Pages](https://ull-mii-sytws-2425.github.io/intro2sd-ivan-garcia-gonzalez-alu0101388786/)
+
+![alt text](img/imagePages.png)
 
 ### Resumen de los conceptos del capítulo
 Se realiza un resumen del capitulo 1 del libro en un post:
